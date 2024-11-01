@@ -1,6 +1,6 @@
 ## Sentence Structure
 ### Word Order
-Avanzata does not have strict word order rules. However, there are a couple rules to be aware of:
+Avanzata does not have strict word order rules. However, there are still a couple rules to be aware of:
 - In sentences where a subject acts on an object, the order must be either subject-object-verb, or if the context is clear, verb-object-subject.
 - The words should be arranged in a way that connects. Two words that relate to each other should have an unrelated word in between them unless the meaning is still clear.
 
