@@ -10,7 +10,7 @@ The pronunciation of each vowel in Avanzata is as follows:
 
 - A: Pronounced close to the ‘a’ in English ‘water’ (IPA: /a/) by default. Changes to a schwa like the ‘u’ in English ‘run’ (IPA: /ə/) when reduced. Can be extended by appending an E.  
 - E: Pronounced close to the ‘e’ in English ‘bed’ (IPA: /e/) by default. Changes to a schwa when reduced. Can be extended by appending an I.  
-- I: Pronounced close to the ‘i’ in English ‘liter’ by default. Changes to a sound close to the ‘i’ in English ‘lit’ (IPA: /ɪ/) when reduced. Can be extended by appending an E. Silent when placed in between a C and another vowel.
+- I: Pronounced close to the ‘i’ in English ‘liter’ by default. Changes to a sound close to the ‘i’ in English ‘lit’ (IPA: /ɪ/) when reduced. Can be extended by appending an E. Silent when placed in between a C/S and another vowel.
 - O: Pronounced close to the ‘o’ in English ‘story’ (IPA: /o/) by default. Changes to be pronounced like U when reduced. Can be extended by appending a U.  
 - U: Pronounced close to the ‘u’ in English ‘tuba’. Does not change significantly when reduced. Cannot be extended.
 
@@ -28,14 +28,14 @@ Basic consonants make only one sound in all situations. The pronunciation of eac
 Some consonants in Avanzata can make more than one sound depending on the situation they’re in. These are called complex consonants. The pronunciation of each complex consonant is as follows:
 
 - B: Pronounced close to English B (IPA: /p/) in most cases. Pronounced without fully closing lips when it’s in between two vowels (IPA: /β/).  
-- C: Pronounced like the ‘ch’ in English ‘chair’ (IPA: /tʃ/) when followed by an I, pronounced like K (IPA: /k/) in all other situations.  
+- C: Pronounced like K (IPA: /k/) in most situations. Pronounced like S when before an E. Pronounced like the ‘ch’ in English ‘chair’ (IPA: /tʃ/) when followed by an I. 
 - F: Pronounced halfway between English F and English H at the end of a syllable or before a U (IPA: /ɸ/). Pronounced as English F (/f/) in all other situations.
 - G: Pronounced close to English G (IPA: /k/) in most cases. Pronounced without the tongue touching the roof of the mouth when it’s in between two vowels (IPA: /ɣ/)  
 - L: Pronounced like English L (IPA: /l/) in most cases. Pronounced as a W when preceding another consonant.  
 - M: Pronounced like English M (IPA: /m/). Silent when preceding another consonant, in which case the vowel before it is nasalized.  
 - N: Pronounced like English N (IPA: /n/). Silent when preceding another consonant, in which case the vowel before it is nasalized.  
 - R: Pronounced as L at the beginning of a word. Pronounced like ‘t’ in English ‘atom’ at the beginning of a syllable in the middle of a word. Silent after a vowel unless followed by another vowel. Pronounced as H when following another consonant.  
-- S: Pronounced as English S (IPA: /s/) in most cases. Pronounced as English Z (IPA: /z/) when in between two vowels.  
+- S: Pronounced as English S (IPA: /s/) in most cases. Pronounced as English Z (IPA: /z/) when in between two vowels. Pronounced like the 'ss' in English 'fission' (IPA: /ʃ/) when before an I.
 - V: Can be pronounced as an F or B, or anything in between, up to the speaker’s discretion.
 - Z: Pronounced like English S (IPA: /s/) in most cases. Pronounced as the 'ts' in English 'cats' (IPA: /ts/) when preceded by an N.
 
