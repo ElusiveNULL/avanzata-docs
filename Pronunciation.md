@@ -23,7 +23,6 @@ Basic consonants make only one sound in all situations. The pronunciation of eac
 - P: Pronounced like English P. IPA: ⟨pʰ⟩  
 - S: Pronounced as English S. IPA: /s/  
 - T: Pronounced like English T. IPA: ⟨tʰ⟩  
-- Z: Pronounced like English S. IPA: /s/
 
 ### Complex consonants
 Some consonants in Avanzata can make more than one sound depending on the situation they’re in. These are called complex consonants. The pronunciation of each complex consonant is as follows:
@@ -37,6 +36,7 @@ Some consonants in Avanzata can make more than one sound depending on the situat
 - N: Pronounced like English N (IPA: /n/). Silent when preceding another consonant, in which case the vowel before it is nasalized.  
 - R: Pronounced as L at the beginning of a word. Pronounced like ‘t’ in English ‘atom’ at the beginning of a syllable in the middle of a word. Silent after a vowel unless followed by another vowel. Pronounced as H when following another consonant.  
 - V: Can be pronounced as an F or B, or anything in between, up to the speaker’s discretion.
+- Z: Pronounced like English S (IPA: /s/) in most cases. Pronounced as the 'ts' in English 'cats' (IPA: /ts/) when preceded by an N.
 
 When multiple consonants occur in a row, only the last one is fully pronounced, with some exceptions:
 
