@@ -15,3 +15,5 @@ Avanzata does not have strict word order rules. However, there are a couple rule
 [Pronunciation](Pronunciation.md)
 
 [Syllable Stress](Syllable_Stress.md)
+
+[Conjugation](Conjugation.md)
