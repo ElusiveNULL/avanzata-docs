@@ -2,7 +2,7 @@
 ### Vowels
 There are a few key concepts that must be understood to properly pronounce vowels in Avanzata:
 
-- Vowel extension: Certain vowels can be extended to change syllable stress to that vowel’s syllable, similar to the equivalent use of accents in most Romance languages. Vowel extension is done by adding a specific vowel after the vowel to be extended. The added vowel can either be anywhere from silent to fully pronounced in its own syllable depending on the speaker’s wishes.  
+- Vowel extension: Certain vowels can be extended to change syllable stress to that vowel’s syllable, similar to the equivalent use of accents in several Romance languages. Vowel extension is done by adding a specific vowel after the vowel to be extended. The added vowel can either be anywhere from silent to fully pronounced in its own syllable depending on the speaker’s wishes.  
 - Vowel reduction: When speaking Avanzata, one can choose to reduce any vowel. A reduced vowel is pronounced quietly and with less effort. In the suffixes \-ata and \-ate, the final ‘a’ or ‘e’ is always reduced unless the speaker wants to intentionally emphasize the vowel for whatever reason.  
 - Vowel merging: If a vowel is followed by another vowel, even if they’re in separate words, they can be combined and pronounced in a single syllable worth one mora. This can only happen with two vowels in a row. If there are three vowels in a row, they would have to be split into separate syllables. Also, if the same vowel occurs twice in a row, the second one can be dropped and does not count towards the two-vowel limit for merging.
 
