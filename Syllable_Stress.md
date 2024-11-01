@@ -10,3 +10,8 @@ There are many words where the stressed syllable is overridden by a syllable con
 - Type 1: The most common, a syllable containing a vowel followed by an M or N.  
 - Type 2: Also very common, a syllable containing a vowel followed by an R.  
 - Type 3: The least common, a syllable containing an extended vowel.
+
+### Other Sections
+[Overview](README.md)
+
+[Pronunciation](Pronunciation.md)

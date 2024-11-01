@@ -12,3 +12,8 @@ Like any language, Avanzata is not perfect. The most important of these imperfec
 
 - Potentially difficult syllable stress rules: Because Avanzata uses a moraic timing system with primarily Latin-based vocabulary, achieving consistency required the creation of several potentially difficult rules regarding syllable stress.  
 - Potentially difficult pronunciation rules: Certain letters, most notably R, can be pronounced multiple ways depending on the situation.
+
+### Other Sections
+[Pronunciation](Pronunciation.md)
+
+[Syllable Stress](Syllable_Stress.md)

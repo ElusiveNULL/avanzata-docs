@@ -43,3 +43,8 @@ When multiple consonants occur in a row, only the last one is fully pronounced, 
 - If the last consonant in the consonant chain is an R, the preceding consonant is pronounced in addition to the R, but the R is pronounced as an H. Example: “Preparer” would be pronounced as /phepaɾˈeː/  
 - If the second-to-last consonant is an N or M, it is still not pronounced, but the preceding vowel is nasalized.  
 - If the second-to-last consonant is an L, it is pronounced, but like the English W.
+
+### Other Sections
+[Overview](README.md)
+
+[Syllable Stress](Syllable_Stress.md)
