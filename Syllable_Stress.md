@@ -10,7 +10,7 @@ There are many words where the stressed syllable is overridden by a syllable con
 - Type 1: A syllable containing a vowel followed by an M or N.  
 - Type 2: A syllable containing a vowel followed by an R.  
 - Type 3: A syllable containing an extended vowel
-- Type 4: The second-to-last syllable of any word with suffixes -ata and -ate, or the last syllable or a word conjugated in the 'you' form 
+- Type 4: The second-to-last syllable of any word with suffixes -ata and -ate, or the last syllable or a word conjugated in the 'you' form (singular or plural)
 
 ### Examples
 The stressed syllable will be in **bold**.
