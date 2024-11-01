@@ -36,10 +36,10 @@ Examples:
 Note that there is no suffix for future tense. Future tense is marked by adding the word 'ue' before a verb. Thus, 'ue' can be translated as 'will' in 'I will see'.
 
 ### Other Sections
-[Overview](README.md)
+- [Overview](README.md)
 
-[Pronunciation](Pronunciation.md)
+- [Pronunciation](Pronunciation.md)
 
-[Syllable Stress](Syllable_Stress.md)
+- [Syllable Stress](Syllable_Stress.md)
 
-[Sentence Structure](Sentence_Structure.md)
+- [Sentence Structure](Sentence_Structure.md)

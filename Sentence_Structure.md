@@ -10,10 +10,10 @@ Avanzata does not have strict word order rules. However, there are a couple rule
 - Avanzata is a pro-drop language, meaning pronouns can be omitted when they can be clearly inferred from context.
 
 ### Other Sections
-[Overview](README.md)
+- [Overview](README.md)
 
-[Pronunciation](Pronunciation.md)
+- [Pronunciation](Pronunciation.md)
 
-[Syllable Stress](Syllable_Stress.md)
+- [Syllable Stress](Syllable_Stress.md)
 
-[Conjugation](Conjugation.md)
+- [Conjugation](Conjugation.md)

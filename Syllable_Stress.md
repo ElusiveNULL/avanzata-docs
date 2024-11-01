@@ -22,10 +22,10 @@ The stressed syllable will be in **bold**.
 - Con**ti** - You count
 
 ### Other Sections
-[Overview](README.md)
+- [Overview](README.md)
 
-[Pronunciation](Pronunciation.md)
+- [Pronunciation](Pronunciation.md)
 
-[Sentence Structure](Sentence_Structure.md)
+- [Sentence Structure](Sentence_Structure.md)
 
-[Conjugation](Conjugation.md)
+- [Conjugation](Conjugation.md)

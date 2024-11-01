@@ -16,10 +16,10 @@ Like any language, Avanzata is not perfect. The most important of these imperfec
 - Potentially difficult pronunciation rules: Certain letters, most notably R, can be pronounced multiple ways depending on the situation.
 
 ### Other Sections
-[Pronunciation](Pronunciation.md)
+- [Pronunciation](Pronunciation.md)
 
-[Syllable Stress](Syllable_Stress.md)
+- [Syllable Stress](Syllable_Stress.md)
 
-[Sentence Structure](Sentence_Structure.md)
+- [Sentence Structure](Sentence_Structure.md)
 
-[Conjugation](Conjugation.md)
+- [Conjugation](Conjugation.md)
