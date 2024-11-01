@@ -53,3 +53,5 @@ If two of the same consonant occur in a row, the consonant is geminated. This is
 [Overview](README.md)
 
 [Syllable Stress](Syllable_Stress.md)
+
+[Sentence Structure](Sentence_Structure.md)

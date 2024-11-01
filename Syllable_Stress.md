@@ -25,3 +25,5 @@ The stressed syllable will be in **bold**.
 [Overview](README.md)
 
 [Pronunciation](Pronunciation.md)
+
+[Sentence Structure](Sentence_Structure.md)

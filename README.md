@@ -19,3 +19,5 @@ Like any language, Avanzata is not perfect. The most important of these imperfec
 [Pronunciation](Pronunciation.md)
 
 [Syllable Stress](Syllable_Stress.md)
+
+[Sentence Structure](Sentence_Structure.md)
