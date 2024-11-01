@@ -45,6 +45,9 @@ When multiple consonants occur in a row, only the last one is fully pronounced, 
 - If the first consonant is an N or M, it is still not pronounced, but the preceding vowel is nasalized.  
 - If the first consonant is an L, it is pronounced, but like the English W.
 
+### Doubled Consonants
+If two of the same consonant occur in a row, the consonant is geminated. This is pronounced as a short pause in the middle of pronouncing the consonant.
+
 ### Other Sections
 [Overview](README.md)
 
