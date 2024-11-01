@@ -10,5 +10,5 @@ Avanzata is a constructed language with primarily a borrowed vocabulary and a un
 ### Drawbacks  
 Like any language, Avanzata is not perfect. The most important of these imperfections are listed as follows:
 
-- Complex syllable stress rules: Because Avanzata uses a moraic timing system with primarily Latin-based vocabulary, achieving consistency required the creation of several potentially difficult rules regarding syllable stress.  
-- Complex pronunciation rules: Certain letters, most notably R, can be pronounced multiple ways depending on the situation.
+- Potentially difficult syllable stress rules: Because Avanzata uses a moraic timing system with primarily Latin-based vocabulary, achieving consistency required the creation of several potentially difficult rules regarding syllable stress.  
+- Potentially difficult pronunciation rules: Certain letters, most notably R, can be pronounced multiple ways depending on the situation.
