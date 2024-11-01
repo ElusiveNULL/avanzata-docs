@@ -11,6 +11,13 @@ There are many words where the stressed syllable is overridden by a syllable con
 - Type 2: Also very common, a syllable containing a vowel followed by an R.  
 - Type 3: The least common, a syllable containing an extended vowel.
 
+### Examples
+The stressed syllable will be in **bold**.
+- Sent**er** - To feel [an emotion or thought]
+- Ez**em**pla - Example
+- Sen**ten**za - Sentence
+- Aryen**tie**na - Argentina
+
 ### Other Sections
 [Overview](README.md)
 
