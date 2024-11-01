@@ -23,6 +23,7 @@ Basic consonants make only one sound in all situations. The pronunciation of eac
 - P: Pronounced like English P. IPA: ⟨pʰ⟩  
 - S: Pronounced as English S. IPA: /s/  
 - T: Pronounced like English T. IPA: ⟨tʰ⟩  
+- Y: Pronounced halfway between the 'y' in English 'yellow' and the 's' in English 'measure'. IPA (approximate): /ʒ/
 
 ### Complex consonants
 Some consonants in Avanzata can make more than one sound depending on the situation they’re in. These are called complex consonants. The pronunciation of each complex consonant is as follows:
