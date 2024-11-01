@@ -27,7 +27,7 @@ Basic consonants make only one sound in all situations. The pronunciation of eac
 ### Complex consonants
 Some consonants in Avanzata can make more than one sound depending on the situation they’re in. These are called complex consonants. The pronunciation of each complex consonant is as follows:
 
-- B: Pronounced close to English B (IPA: /p/) in most cases. Pronounced without fully closing lips when it’s in between two vowels (IPA: /β/).  
+- B: Pronounced close to English B (IPA: /p/) in most cases. Pronounced without fully closing lips when in between two vowels (IPA: /β/).  
 - C: Pronounced like K (IPA: /k/) in most situations. Pronounced like S when before an E. Pronounced like the ‘ch’ in English ‘chair’ (IPA: /tʃ/) when followed by an I. 
 - F: Pronounced halfway between English F and English H at the end of a syllable or before a U (IPA: /ɸ/). Pronounced as English F (/f/) in all other situations.
 - G: Pronounced close to English G (IPA: /k/) in most cases. Pronounced without the tongue touching the roof of the mouth when it’s in between two vowels (IPA: /ɣ/)  
