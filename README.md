@@ -1,4 +1,4 @@
-## [Advisory] This project is a WIP. While Avanzata itself is complete, the documentation is not.
+## [Advisory] This project is a WIP, the documentation is not finished.
 Current goals:
 - Add sample sentences page
 
