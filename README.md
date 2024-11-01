@@ -1,4 +1,6 @@
 ## [Advisory] This project is a WIP. While Avanzata itself is complete, the documentation is not.
+Current goals:
+- Add sample sentences page
 
 ## Overview  
 Avanzata is a constructed language with a primarily borrowed vocabulary and a unique pronunciation and grammar system. The language is designed with a few goals in mind:
