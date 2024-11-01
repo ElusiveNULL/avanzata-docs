@@ -29,7 +29,7 @@ Some consonants in Avanzata can make more than one sound depending on the situat
 
 - B: Pronounced close to English B (IPA: /p/) in most cases. Pronounced without fully closing lips when it’s in between two vowels (IPA: /β/).  
 - C: Pronounced like the ‘ch’ in English ‘chair’ (IPA: /tʃ/) when followed by an I, pronounced like K (IPA: /k/) in all other situations.  
-- F: Pronounced halfway between English F and English H at the end of a syllable or before a U (IPA: /ɸ/). Pronounced as English F (/f/) in all other situations.  
+- F: Pronounced halfway between English F and English H at the end of a syllable or before a U (IPA: /ɸ/). Pronounced as English F (/f/) in all other situations.
 - G: Pronounced close to English G (IPA: /k/) in most cases. Pronounced without the tongue touching the roof of the mouth when it’s in between two vowels (IPA: /ɣ/)  
 - L: Pronounced like English L (IPA: /l/) in most cases. Pronounced as a W when preceding another consonant.  
 - M: Pronounced like English M (IPA: /m/). Silent when preceding another consonant, in which case the vowel before it is nasalized.  
