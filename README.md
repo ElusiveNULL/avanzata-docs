@@ -3,7 +3,7 @@
 ## Overview  
 Avanzata is a constructed language with a primarily borrowed vocabulary and a unique pronunciation and grammar system. The language is designed with a few goals in mind:
 
-- Consistency \- Every word in Avanzata should follow every rule, with as few exceptions as possible. There are no currently known exceptions.
+- Consistency \- Every word in Avanzata should follow every rule, with as few exceptions as possible. There is currently only one known exception: The verb 'to be'.
 - Ease of speaking \- Avanzata is designed to be spoken quickly with minimal effort, and with flexible pronunciation rules.  
 - Flexible grammar \- Sentences in Avanzata can be constructed in a variety of ways as long as the point is clear.  
 - Intuitive vocabulary: When translating a new word to Avanzata, one can usually just adapt the equivalent word from a Romance language into Avanzata using cognate rules.  
