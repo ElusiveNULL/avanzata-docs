@@ -1,7 +1,7 @@
 ## [Advisory] This project is a WIP. While Avanzata itself is complete, the documentation is not.
 
 ## Overview  
-Avanzata is a constructed language with primarily a borrowed vocabulary and a unique pronunciation and grammar system. The language is designed with a few goals in mind:
+Avanzata is a constructed language with a primarily borrowed vocabulary and a unique pronunciation and grammar system. The language is designed with a few goals in mind:
 
 - Consistency \- Every word in Avanzata should follow every rule, with as few exceptions as possible. There are no currently known exceptions.
 - Ease of speaking \- Avanzata is designed to be spoken quickly with minimal effort, and with flexible pronunciation rules.  
