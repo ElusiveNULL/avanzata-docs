@@ -21,7 +21,6 @@ Basic consonants make only one sound in all situations. The pronunciation of eac
 - H: Pronounced like English H. IPA: /h/  
 - K: Pronounced like English K. IPA: ⟨kʰ⟩  
 - P: Pronounced like English P. IPA: ⟨pʰ⟩  
-- S: Pronounced as English S. IPA: /s/  
 - T: Pronounced like English T. IPA: ⟨tʰ⟩  
 - Y: Pronounced halfway between the 'y' in English 'yellow' and the 's' in English 'measure'. IPA (approximate): /ʒ/
 
@@ -36,6 +35,7 @@ Some consonants in Avanzata can make more than one sound depending on the situat
 - M: Pronounced like English M (IPA: /m/). Silent when preceding another consonant, in which case the vowel before it is nasalized.  
 - N: Pronounced like English N (IPA: /n/). Silent when preceding another consonant, in which case the vowel before it is nasalized.  
 - R: Pronounced as L at the beginning of a word. Pronounced like ‘t’ in English ‘atom’ at the beginning of a syllable in the middle of a word. Silent after a vowel unless followed by another vowel. Pronounced as H when following another consonant.  
+- S: Pronounced as English S (IPA: /s/) in most cases. Pronounced as English Z (IPA: /z/) when in between two vowels.  
 - V: Can be pronounced as an F or B, or anything in between, up to the speaker’s discretion.
 - Z: Pronounced like English S (IPA: /s/) in most cases. Pronounced as the 'ts' in English 'cats' (IPA: /ts/) when preceded by an N.
 
