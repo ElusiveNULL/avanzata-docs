@@ -40,10 +40,10 @@ Some consonants in Avanzata can make more than one sound depending on the situat
 - Z: Pronounced like English S (IPA: /s/) in most cases. Pronounced as the 'ts' in English 'cats' (IPA: /ts/) when preceded by an N.
 
 ### Consonant Reduction/Omission
-When multiple consonants occur in a row, only the last one is fully pronounced, with some exceptions:
+When multiple consonants occur in a row, only the last one is **fully** pronounced and the others are either reduced (pronoucned quieter with less effort) or dropped, up to the speaker's discretion. However there are some exceptions:
 
-- If the last consonant in the consonant chain is an R, the preceding consonant is pronounced in addition to the R, but the R is pronounced as an H. Example: “Preparer” would be pronounced as /phepaɾˈeː/  
-- If the first consonant is an N or M, it is still not pronounced, but the preceding vowel is nasalized.  
+- If the last consonant in the consonant chain is an R, the preceding consonant is fully pronounced and the R is pronounced as an H and reduced. Example: “Preparer” would be pronounced as /phepaɾˈeː/  
+- If the first consonant is an N or M, it is not pronounced, but the preceding vowel is nasalized.  
 - If the first consonant is an L, it is pronounced, but like the English W.
 
 ### Doubled Consonants
