@@ -20,6 +20,7 @@ Examples:
 
 ### Suffixes
 Avanzata contains some suffixes that change the properties of a word. They are listed as follows:
+- nei: Negates a verb or adjective
 - -me: Marks an adverb
 - -ata: Marks past participle form. In other words, that an action is completed.
 - -ate: Plural form of -ata.
@@ -27,6 +28,7 @@ Avanzata contains some suffixes that change the properties of a word. They are l
 - -go: Marks past perfect tense.
 
 Examples:
+- Rezentanei: Not recent
 - Perfectame: Perfectly
 - Delitata: Deleted, that which is deleted
 - Delitate: Those which are deleted
