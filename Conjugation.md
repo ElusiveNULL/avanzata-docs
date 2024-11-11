@@ -39,6 +39,13 @@ Examples:
 
 Note that there is no suffix for future tense. Future tense is marked by adding the word 'ue' before a verb. Thus, 'ue' can be translated as 'will' in 'I will see'.
 
+### Plural vs singular
+To make a noun plural, change the trailing A to an E. If the word does not end in an A, add an E to the end.
+
+Example:
+- Persona: Person
+- Persone: People
+
 ### Other Sections
 - [Overview](README.md)
 
