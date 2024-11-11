@@ -2,6 +2,7 @@
 ### Verbs
 Verbs in Avanzata are conjugated to indicate the subject of the verb. This is done by changing the end of the verb. The subject conjugations are as follows:
 - To (infinitive): -er
+- Please do (Imperative): -ere
 - I: -o
 - We: -oe
 - You (singular): -i
@@ -10,13 +11,14 @@ Verbs in Avanzata are conjugated to indicate the subject of the verb. This is do
 - They (plural): -ei
 
 Examples:
-- To know: Saber
-- I know: Sabo
-- We know: Saboe
-- You (singular) know: Sabi
-- You (plural) know: Sabie
-- He/She/They (singular) know/knows: Sabe
-- They (plural) know: Sabei
+- To say: Dizer
+- [Please] say: Dizere
+- I say: Dizo
+- We say: Dizoe
+- You (singular) say: Dizi
+- You (plural) say: Dizie
+- He/She/They (singular) say/says: Dize
+- They (plural) say: Dizei
 
 ### Suffixes
 Avanzata contains some suffixes that change the properties of a word. They are listed as follows:
