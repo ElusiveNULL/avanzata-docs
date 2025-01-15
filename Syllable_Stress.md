@@ -7,8 +7,8 @@ Avanzata has detailed syllable stress rules designed to accommodate the mora tim
 
 There are many words where the stressed syllable is overridden by a syllable containing a specific vowel \+ consonant combination, and the syllable’s worth changes to two morae. There are four types of stress-overriding syllables, and a higher priority type takes precedence over lower ones. So in a word with type 1 and type 2, the type 2 would be the stressed syllable and the only one worth two morae. When there are multiple instances of the highest type in a word, the last one takes precedence. So in a 4-syllable word where the syllable types go 1-0-2-2, the last syllable would be the stressed syllable and the only one worth two morae.
 
-- Type 1: A syllable containing a vowel followed by an M or N.  
-- Type 2: A syllable containing a vowel followed by an R.  
+- Type 1: A syllable containing a vowel followed by an M or N  
+- Type 2: A syllable containing a vowel followed by an R  
 - Type 3: A syllable containing an extended vowel
 - Type 4: The second-to-last syllable of any word with suffixes -ata and -ate, or the last syllable of a word conjugated in the 'you' form (singular or plural)
 - Type 5: The syllable before a geminated consonant
