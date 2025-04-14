@@ -1,7 +1,4 @@
-## [Advisory] This project is a WIP, the documentation is not finished.
-Current goals:
-- Create sample sentences page
-- Potentially create page for cognate rules
+## [Advisory] This project has been replaced by an online Google Docs [document](https://docs.google.com/document/d/17VVxR5UDcQrdlGaIbUQ_ZxyE0Mfq7nhnray6rkjOUsY/edit?usp=sharing).
 
 ## Overview  
 Avanzata is a constructed language with a primarily borrowed vocabulary and a unique pronunciation and grammar system. The language is designed with a few goals in mind:
@@ -17,12 +14,3 @@ Like any language, Avanzata is not perfect. The most important of these imperfec
 
 - Potentially difficult syllable stress rules: Because Avanzata uses a moraic timing system with primarily Latin-based vocabulary, achieving consistency required the creation of several potentially difficult rules regarding syllable stress.  
 - Potentially difficult pronunciation rules: Certain letters, most notably R, can be pronounced multiple ways depending on the situation. There are also some potentially difficult rules for vowel merging and consonant omission during pronunciation. These rules were created to facilitate the moraic timing system, to facilitate ease of speaking, and to give Avanzata its unique sound.
-
-### Other Sections
-- [Pronunciation](Pronunciation.md)
-
-- [Syllable Stress](Syllable_Stress.md)
-
-- [Sentence Structure](Sentence_Structure.md)
-
-- [Conjugation](Conjugation.md)
