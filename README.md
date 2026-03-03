@@ -2,15 +2,13 @@
 
 ## Overview  
 Avanzata is a constructed language with a primarily borrowed vocabulary and a unique pronunciation and grammar system. The language is designed with a few goals in mind:
-
-- Consistency \- Every word in Avanzata should follow every rule, with as few exceptions as possible. There is currently only one known exception: The verb 'to be'.
-- Ease of speaking \- Avanzata is designed to be spoken quickly with minimal effort, and with flexible pronunciation rules.  
-- Flexible grammar \- Sentences in Avanzata can be constructed in a variety of ways as long as the point is clear.  
-- Intuitive vocabulary: When translating a new word to Avanzata, one can usually just adapt the equivalent word from a Romance language into Avanzata using cognate rules.  
+- Consistency - Every word in Avanzata should follow every rule, with as few exceptions as possible. There is currently only one known exception, the verb 'to be'.
+- Ease of speaking - Avanzata is designed to be spoken quickly with minimal effort (provided the speaker is familiar with the sounds), and with flexibility in the pronunciation rules.
+- Flexible grammar - Sentences in Avanzata can be constructed in a variety of ways as long as the point is clear.
+- Unique sound: Avanzata is designed to sound like a combination of several Romance languages (Spanish, Italian, Brazilian and European Portuguese, French) and Japanese. Consonant and vowel phonology is approximately half Japanese-inspired and half Romance language-inspired. Vocabulary is mostly cognate with the Romance languages, and the timing system is moraic, akin to Japanese.
 - Ease of typing: Avanzata uses the Latin alphabet without accent marks to facilitate ease of typing.
 
-### Drawbacks  
-Like any language, Avanzata is not perfect. The most important of these imperfections are listed as follows:
-
-- Potentially difficult syllable stress rules: Because Avanzata uses a moraic timing system with primarily Latin-based vocabulary, achieving consistency required the creation of several potentially difficult rules regarding syllable stress.  
-- Potentially difficult pronunciation rules: Certain letters, most notably R, can be pronounced multiple ways depending on the situation. There are also some potentially difficult rules for vowel merging and consonant omission during pronunciation. These rules were created to facilitate the moraic timing system, to facilitate ease of speaking, and to give Avanzata its unique sound.
+## Challenges
+Avanzata is consistent by design, but like any language, it is not simple. Some potentially difficult aspects are listed as follows:
+- Potentially complicated syllable stress rules: Because Avanzata uses a moraic timing system with primarily Latin-based vocabulary, achieving consistency required the creation of several potentially difficult rules regarding syllable stress.
+- Potentially complicated pronunciation rules: Many letters can be pronounced multiple ways depending on the adjacent letters. There are also some potentially difficult rules for vowel merging and consonant omission during pronunciation. These rules were created to facilitate the moraic timing system, to facilitate ease of speaking, and to give Avanzata its unique sound.
